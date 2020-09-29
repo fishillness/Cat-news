@@ -1,0 +1,70 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Lora';
+	background: #DAFCD2;
+}
+
+.container {
+	margin: 0 auto; 
+}
+header a {
+	color: #0B2806;
+	text-decoration: none; /*убираем подчеркивание*/
+	font-size: 18px;
+	margin: 0 auto;
+}
+.nav {
+	/*width: 100vw;*/
+	padding-top: 21px;
+	/*margin-top: 21px;*/
+	padding-left: 658px;
+	margin-bottom: -21px;
+}
+.hat {
+	background: url('../img/hat.jpg') no-repeat center top / cover;
+	/*width: 100vw;*/
+	height: 602px;
+	margin: 0 auto;
+}
+.hat h1 {
+	font-size: 96px;
+	color: #DAFCD2;
+	font-style: normal;
+	font-weight: normal;
+	margin-top: 45px;
+	margin-left: 104px;
+	padding-top: 45px;
+}
+
+.about {
+	background: #FFF;
+	margin-top: 64px;
+	width: 85vw;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+.theme h2 {
+	color: #0B2806;
+	text-align: center;
+	font-size: 36px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.theme h3 {
+	color: #565656;
+	text-align: right;
+	padding-right: 35px;
+	font-size: 24px;
+}
+.description h3 {
+	color: #0B2806;
+	font-size: 24px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.photo {
+	text-align: center;
+}

@@ -1,0 +1,100 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Lora';
+	background: #DAFCD2;
+}
+
+.container {
+	margin: 0 auto;
+}
+header a {
+	color: #0B2806;
+	text-decoration: none;/*убираем подчеркивание*/
+	font-size: 18px;
+	margin: 0 auto;
+}
+.nav {
+	/*width: 100vw;*/
+	padding-top: 21px;
+	/*margin-top: 21px;*/
+	padding-left: 658px;
+	margin-bottom: -21px;
+}
+.hat {
+	background: url('../img/hat.jpg') no-repeat center top / cover;
+	height: 602px;
+	margin: 0 auto;	
+}
+.hat h1 {
+	font-size: 96px;
+	color: #DAFCD2;
+	font-style: normal;
+	font-weight: normal;
+	margin-top: 45px;
+	margin-left: 104px;
+	padding-top: 45px;
+}
+.btn {
+	display: block;
+	text-align: center;
+	margin-top: 49px;
+	/*margin-left: 236px;*/
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-top: 0 auto;*/
+	background: #FFF;
+	width: 907px;
+	height: 100px;
+}
+.btn h2 {
+	font-size: 36px;
+	color: #0B2806;
+	margin: 0 auto; 
+	/*margin-top: 29px;*/
+	padding-top: 29px;
+}
+.description {
+	display: block;
+	margin-top: 28px;
+	/*margin-left: 91px;*/
+	background: #FFF;
+	width: 67vw;
+	/*height: 345px;*/
+	padding-top: 61px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.description h3 {
+	width: 60vw;
+	margin: 0 auto;
+	font-size: 24px;
+	color: #0B2806;
+}
+.linkk {
+	display: block;
+	background: #FFF;
+	width: 67vw;
+	padding-top: 58px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.linkk h3 {
+	width: 60vw;
+	margin: 0 auto;
+	font-size: 24px;
+	color: #0B2806;
+}
+.linkk a {
+	width: 60vw;
+	text-decoration: none;
+	margin: 0 auto;
+	font-size: 24px;
+	color: #30961E;
+	padding-left: 49px;
+	font-family: 'Lora';
+}
+
+/*.footer p{
+	padding-top: 135px;
+}*/

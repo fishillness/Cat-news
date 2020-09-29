@@ -1,0 +1,27 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Lora';
+	background: #DAFCD2;
+}
+
+.container {
+	margin: 0 auto;
+}
+
+.nav {
+	height: 23px;
+	margin-top: 21px;
+	text-align: center;
+	margin-bottom: 21px;
+}
+header a {
+	color: #0B2806;
+	text-decoration: none; /*убираем подчеркивание*/
+	font-size: 18px;
+	margin: 0 auto;
+}
+.error {
+	padding-top: 40px;
+	text-align: center;
+}
